@@ -1,0 +1,17 @@
+footer{
+    background-color: rgb(106, 106, 106);
+    color: antiquewhite;
+}
+
+.footerlinks{
+    color:antiquewhite;
+    text-decoration: none;
+}
+
+.logo{
+    background-color: white;
+    color: black;
+    font-size:larger;
+    padding: 8px;
+    border-radius: 50%;
+}   
