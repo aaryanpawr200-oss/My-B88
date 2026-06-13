@@ -1,0 +1,63 @@
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.OffersSec{
+    
+    height: 200px;
+    background-image: linear-gradient(to right, white, orange);
+}
+button{
+    color:brown;
+    margin-top: 10px;
+    padding-top: 20px 20px;
+}
+button:hover{
+    background-color: orange;
+}
+
+.line{
+    text-align:center;
+}
+
+
+.BKLoyaltyCrown{
+    background-color: rgb(115, 42, 42);
+}
+.customYelloHeading{
+    width: 100%;
+    height: 104px;
+}
+.p4{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.customCoinColletor{
+    width: 100%;
+    height: 300px; /* adjust as needed */
+}
+
+.img1{
+    width: 100%;
+    height: 100%;
+    object-fit: cover; /* fills the box */
+}   
+.customPlayAndWin{
+    width: 100%;
+    height: 300px;
+}
+.img2{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.customRedeem{
+    width: 100%;
+    height: 300px;
+}
+.img3{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
